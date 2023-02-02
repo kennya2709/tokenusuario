@@ -53,7 +53,7 @@ return (
                             <Form.Label>Matricula</Form.Label>
                             <Form.Control name = "matricula" type="text" placeholder="Enter matricula" value = {matricula} onChange = {handleChange}/>
                             <Form.Text className="text-muted">
-                                We'll never share your matricula with anyone else.
+                                We'll never share your matricula with anyone else
                             </Form.Text>
                         </Form.Group>
 
