@@ -4,7 +4,7 @@ function Suscribir() {
 
     return (
         <>
-            <BarraSuperior />
+           
             <FormularioSuscripcion />
         </>
 

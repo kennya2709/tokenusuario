@@ -4,7 +4,7 @@ import { FormularioIngreso } from '../components/FormularioIngreso';
 const Ingresar = () => {
     return (
        <>
-       <BarraSuperior/>
+      
        <FormularioIngreso />
        </>
     );
